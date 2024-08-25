@@ -19,6 +19,11 @@
 * null resources
 * statefile and lock in terraform
 * backend (for maintain statefile)
+   * s3
+   * azurerm
+   * local
+   * remote
+   
 * moudles in terraform
 * workspace in terraform
 * how to use condition in terraform
@@ -29,3 +34,12 @@
 * terraform force-lock command
 * terraform import command
 * terraform registry
+* terraform functions
+    * length()
+    * subnetcidr()
+    * join()
+    * file()
+    * list()
+    * index()
+* how to use .tfvars files for different env
+
