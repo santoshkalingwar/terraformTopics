@@ -31,7 +31,7 @@
 * what is the use of terraform refresh command
 * what is the use of terraform show command
 * what is the use of terraform output command
-* terraform force-lock command
+* terraform force-unlock command
 * terraform import command
 * terraform registry
 * terraform functions
